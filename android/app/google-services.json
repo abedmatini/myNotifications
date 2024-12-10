@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951283993337",
+    "project_id": "reactnative-push-notific-c650c",
+    "storage_bucket": "reactnative-push-notific-c650c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951283993337:android:4f2badf304e292b3883028",
+        "android_client_info": {
+          "package_name": "com.username.mynotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhvKHj2kD0KGcJuZoX_n2u-y596DT5bhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
